@@ -19,7 +19,11 @@ This is my response to the Cipher Challenge offered by Stack Sports as part of t
 
 ## Goals
 
-<!-- The site makes use of a few media queries. Check it out in responsive mode in Chrome dev tools! -->
+Upon completion this project will 
+-contain the code used for encryption of the original source files provided by Stack Sports.
+-reflect an effort to derive a cipher key and decode provided text.
+-have a creative and fun front end with animatios and media queries, including some Bootstrap elements
+<!-- The site will employ Webpack, Bootstrap and Bable. -->
 
 <br>
 
@@ -27,8 +31,8 @@ This is my response to the Cipher Challenge offered by Stack Sports as part of t
 
 <li>React</li>
 <li>Bootstrap</li>
-<li>Babel</li>
-<li>Webpack</li>
+<!-- <li>Babel</li>
+<li>Webpack</li> -->
 <!-- <li>NodeJS</li> -->
 <!-- <li>Express</li> -->
 
@@ -36,40 +40,36 @@ This is my response to the Cipher Challenge offered by Stack Sports as part of t
 
 ## Mobile Responsive
 
-The site makes use of a few media queries. Check it out in responsive mode in Chrome dev tools.
+<!-- The site makes does not yet use media queries. Check it out in responsive mode in Chrome dev tools. -->
 
 <br>
 
 ## Animation 
 
-<!-- All posts are visible organized into sections on the home page.
-Click on a section to view it individually.
-Click on a post to view the entire post. -->
+<!-- Text animates in dramatically when decrypted -->
+<!-- Intro page uses on hover to reveal hidden images/elements -->
 
-<p align="center">
-    <img src="https://github.com/Tommydreamer57/personal-project/blob/master/src/assets/Home Page.PNG" width="700">
-</p>
+<!-- <p align="center">
+    <img src="" width="700">
+</p> -->
 
-
-<p align="center">
-    <img src="https://github.com/Tommydreamer57/personal-project/blob/master/src/assets/Navbar.PNG" width="700">
-</p>
 
 ## Installing
 
-<!-- I used the SlateJS rich text editor library to allow admins to create dynamic blog posts. -->
+Please feel free to explore by forking, cloning, opening in VSCode and running yarn to install dependencies
+<!-- I used the Babel and Webpack. -->
 
 <br>
 
 ## Troubleshooting
 
-<!-- I used the SlateJS rich text editor library to allow admins to create dynamic blog posts. -->
+Not yet a working app....(LLL)
 
 <br>
 
 ## Dev Mode Notes
 
  //*"build": "webpack --mode production",*//
- 
+
 <br>
 
