@@ -1,28 +1,9 @@
-.App {
-  text-align: center;
-}
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 80px;
+.animations{
+   width: 100px;
+    height: 100px;
+    background-image: url 'https://cdn-images-1.medium.com/max/1600/1*FCZMG2AgKPDXqXyOtV4faA.png';
+    position :relative;
+  --webkit-animation: flip-vertical-left;
 }
-
-.App-header {
-  background-color: #222;
-  height: 150px;
-  padding: 20px;
-  color: white;
-}
-
-.App-title {
-  font-size: 1.5em;
-}
-
-.App-intro {
-  font-size: large;
-}
-
-@keyframes App-logo-spin {
-  from { transform: rotate(0deg); }
-  to { transform: rotate(360deg); }
-}
+@-webkit-keyframes flip-vertical-left{0%{-webkit-transform:rotateY(0);transform:rotateY(0)}100%{-webkit-transform:rotateY(-180deg);transform:rotateY(-180deg)}}@keyframes flip-vertical-left{0%{-webkit-transform:rotateY(0);transform:rotateY(0)}100%{-webkit-transform:rotateY(-180deg);transform:rotateY(-180deg)}}

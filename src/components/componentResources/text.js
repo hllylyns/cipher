@@ -1,0 +1,4 @@
+module.exports = {
+    shakespeare: "Ixql. Jdq xqgknxqtmk, hqjx ztwun wr mwyrwjb, Wr ezwl Fnlqrz, dxnln dn tzb qgl kinrn, Elqs zriwnrj ylgmyn hlnzu jq rnd sgjwrb, Dxnln iwfwt htqqm szunk iwfwt xzrmk gritnzr. Elqs eqljx jxn ezjzt tqwrk qe jxnkn jdq eqnk Z pzwl qe kjzl-ilqkk'm tqfnlk jzun jxnwl twen; Dxqkn swkzmfnrjgl'm pwjnqgk qfnljxlqdk Mqjx dwjx jxnwl mnzjx hglb jxnwl pzlnrjk' kjlwen. Jxn enzlegt pzkkzyn qe jxnwl mnzjx-szlu'm tqfn, Zrm jxn iqrjwrgzrin qe jxnwl pzlnrjk' lzyn, Dxwix, hgj jxnwl ixwtmlnr'k nrm, rzgyxj iqgtm lnsqfn, Wk rqd jxn jdq xqglk' jlzeewi qe qgl kjzyn; Jxn dxwix we bqg dwjx pzjwnrj nzlk zjjnrm, Dxzj xnln kxztt swkk, qgl jqwt kxztt kjlwfn jq snrm.",
+    kafka: ""
+}
