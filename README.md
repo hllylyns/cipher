@@ -23,7 +23,7 @@ Upon completion this project will : <br>
 Contain the code used for encryption of the original source files provided by Stack Sports.<br>
 Reflect an effort to derive a cipher key and decode provided text.<br>
 Have a creative and fun front end with animatios and media queries, including some Bootstrap elements <br>
-The site will employ Webpack, Bootstrap and Babel ***
+The site will employ Webpack, Bootstrap and Babel *** <br>
 ***represents incomplete aspects of project
 
 <br>
@@ -47,7 +47,7 @@ The site makes does not *yet* use media queries. Check it out in responsive mode
 
 ## Animation 
 
-Text animates in dramatically when decrypted***
+Text animates in dramatically when decrypted*** <br>
 Intro page uses on hover to reveal hidden images/elements***
 
 <p align="center">
